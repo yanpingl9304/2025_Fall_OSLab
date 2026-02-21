@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "msg.h": "c",
+        "semaphore.h": "c",
+        "sem.h": "c"
+    }
+}
