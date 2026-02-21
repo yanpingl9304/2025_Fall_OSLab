@@ -1,0 +1,1 @@
+savedcmd_/home/user/Desktop/Lab4/Lab4_Template_Optimize/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/user/Desktop/Lab4/Lab4_Template_Optimize/Module.symvers -T /home/user/Desktop/Lab4/Lab4_Template_Optimize/modules.order -i Module.symvers -e 

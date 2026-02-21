@@ -1,0 +1,1 @@
+savedcmd_/home/user/Desktop/Lab4/Lab4_Template_Optimize/osfs.mod := printf '%s\n'   super.o inode.o file.o dir.o osfs_init.o | awk '!x[$$0]++ { print("/home/user/Desktop/Lab4/Lab4_Template_Optimize/"$$0) }' > /home/user/Desktop/Lab4/Lab4_Template_Optimize/osfs.mod

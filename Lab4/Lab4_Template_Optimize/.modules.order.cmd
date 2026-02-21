@@ -1,0 +1,1 @@
+savedcmd_/home/user/Desktop/Lab4/Lab4_Template_Optimize/modules.order := {   echo /home/user/Desktop/Lab4/Lab4_Template_Optimize/osfs.o; :; } > /home/user/Desktop/Lab4/Lab4_Template_Optimize/modules.order

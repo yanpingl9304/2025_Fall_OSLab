@@ -1,0 +1,1 @@
+savedcmd_/home/user/Desktop/Lab4/Lab4_Template_Optimize/osfs.o := ld -m elf_x86_64 -z noexecstack --no-warn-rwx-segments   -r -o /home/user/Desktop/Lab4/Lab4_Template_Optimize/osfs.o @/home/user/Desktop/Lab4/Lab4_Template_Optimize/osfs.mod 
